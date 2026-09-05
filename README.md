@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baradhwaj07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff&background=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Baradhwaj07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradhwaj07&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=ffffff&bg_color=0d1117&langs_count=8"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradhwaj07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
 
@@ -89,12 +89,18 @@
 
 ---
 
-<!-- ===== GITHUB TROPHIES ===== -->
-## 🏆 GitHub Trophies
+<!-- ===== GITHUB STATS BADGES ===== -->
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Baradhwaj07&theme=radical&no-frame=true&margin-w=6&column=6"/>
+<img src="https://img.shields.io/badge/Total%20Commits-378+-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-13%20days-7b2ff7?style=for-the-badge&logo=fire&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Public%20Repos-11+-ff0080?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-PRO-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
@@ -103,11 +109,11 @@
 ---
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Activity
+## 📈 Contribution Calendar
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Baradhwaj07&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff0080&area=true&hide_border=true"/>
+<img width="100%" src="https://ghchart.rshah.org/7b2ff7/Baradhwaj07" alt="Baradhwaj's Contribution Graph"/>
 
 </div>
 
