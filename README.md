@@ -76,12 +76,17 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Baradhwaj07&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baradhwaj07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baradhwaj07&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baradhwaj07&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baradhwaj07&theme=tokyonight&utcOffset=5.5"/>
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradhwaj07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img src="https://streak-stats.demolab.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff"/>
 
 </div>
 
