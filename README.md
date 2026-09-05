@@ -24,7 +24,7 @@
 ---
 
 <!-- ===== ABOUT ME ===== -->
-<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## 🚀 About Me
 
@@ -76,12 +76,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baradhwaj07&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff&background=0d1117&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baradhwaj07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=7b2ff7&text_color=ffffff&bg_color=0d1117"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Baradhwaj07&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=7b2ff7&fire=ff0080&currStreakLabel=00f5ff&background=0d1117"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradhwaj07&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=ffffff&bg_color=0d1117&border_radius=10&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradhwaj07&theme=tokyonight&hide_border=true&layout=compact&title_color=00f5ff&text_color=ffffff&bg_color=0d1117&langs_count=8"/>
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Baradhwaj07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Baradhwaj07&theme=radical&no-frame=true&margin-w=6&column=6"/>
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Baradhwaj07&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff0080&area=true&area_color=7b2ff7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Baradhwaj07&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff0080&area=true&hide_border=true"/>
 
 </div>
 
